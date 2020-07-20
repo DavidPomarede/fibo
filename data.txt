@@ -1,0 +1,32 @@
+TECHNOLOGICAL DOMINATION
+Researcher Warns: Algorithms Are "Using and Even Controlling Us"
+"We are setting ourselves up for technological domination."
+VICTOR TANGERMANNMARCH 11TH 2019
+Algorithmic Reality
+We're surrounded by algorithms in almost everything we do, from browsing the web to making financial decisions. But do we, as humans, still have a say in the way those algorithms shape our reality?
+
+Maybe not, according to new research.
+
+"Our exploration led us to the conclusion that, over time, the roles of information technology and humans have been reversed," professor at the Center for Systems Studies at Hull University in Yorkshire England Dionysios Demetis wrote in an essay for The Conversation. "In the past, we humans used technology as a tool. Now, technology has advanced to the point where it is using and even controlling us."
+
+Calling The Shots
+In the essay, Demetis builds on a paper he published last year with Allen Lee, professor at Virginia Commonwealth University, in the Journal of the Association for Information Systems.
+
+Rather than having algorithms and machines make decisions that don't affect us in any way, Dementis argues that we are in fact "deeply affected by them in unpredictable ways." And humans made it that way: "we have progressively restricted our own decision-making capacity and allowed algorithms to take over."
+
+As evidence, Demetis points to examples from lawyers being replaced by artificial intelligence, recruiters over-relying on third-party tools to weed out bad candidates, and the fact that a sizable majority of trading in foreign exchange markets is determined not by humans but by algorithms that call the shots within tiny fractions of a second.
+
+Machine Head
+That over-reliance on algorithms, according to Demetis, can also result in market crashes — not caused by a "bug in the programming" but learned behavior that "emerged from the interaction of millions of algorithmic decisions playing off each other in unpredictable ways."
+
+In fact, humans are an impediment. "The people running the trading system had come to see human decisions as an obstacle to market efficiency," Demetis wrote.
+
+Ultimately, the choice to surrender decision making to machines could set us up for a grim future. Worst case scenario: "technological domination," according to Demetis.
+
+But it's not too late — yet.
+
+"We need to decide, while we still can, what this means for us both as individuals and as a society."
+
+READ MORE: Algorithms have already taken over human decision making [The Conversation]
+
+More on algorithms: Tech That Can "Detect Emotion" Could Keep You From Getting a Job
