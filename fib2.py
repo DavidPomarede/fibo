@@ -17,5 +17,5 @@ def fibonacci(n):
     fibonacci_cache[n] = value
     return value
 
-for n in range(1, 1001):
+for n in range(1, 101):
     print(n, ":", fibonacci(n))
