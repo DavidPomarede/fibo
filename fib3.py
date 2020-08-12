@@ -15,5 +15,5 @@ def fibonacci(n):
         return fibonacci(n-1) + fibonacci(n-2)
 
 # if you do it like this, numbers converge on the golden ratio
-for n in range(1, 54):
+for n in range(1, 540):
     print(fibonacci(n+1) / fibonacci(n))
