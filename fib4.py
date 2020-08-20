@@ -1,5 +1,5 @@
 from functools import lru_cache
-@lru_cache(maxsize = 2200)
+@lru_cache(maxsize = 220)
 def fibonacci(n):
     # check that the input is a positive integer
     if type(n) != int:
@@ -15,5 +15,5 @@ def fibonacci(n):
         return fibonacci(n-1) + fibonacci(n-2)
 
 # if you do it like this, numbers converge on the golden ratio
-for n in range(1, 540):
+for n in range(1, 54):
     print(fibonacci(n+1) / fibonacci(n))
