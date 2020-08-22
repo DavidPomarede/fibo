@@ -18,7 +18,7 @@ def fibonacci(n):
 for n in range(1, 54):
     print(fibonacci(n+1) / fibonacci(n))
 
-
+# now it's just displaying the ascii char
 
 numbers = [17, 38, 79] 
   
@@ -30,7 +30,31 @@ for number in numbers:
 
 
 
+# bored now
 
+a, b = 10, 20
+  
+if a != b: 
+    if a > b: 
+        print("a is greater than b") 
+    else: 
+        print("b is greater than a") 
+else: 
+    print("Both a and b are equal") 
+
+
+# functions
+
+
+# Here x is a new reference to same list lst 
+def myFun(x): 
+   x[0] = 20
+  
+# Driver Code (Note that lst is modified 
+# after function call. 
+lst = [10, 11, 12, 13, 14, 15]  
+myFun(lst); 
+print(lst)  
 
 
 
