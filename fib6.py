@@ -7,7 +7,7 @@ def moveVia(f,v,t) :
     move(f,v)
     move(v,t)
 
-## print(moveVia("A","B","C"))
+ print(moveVia("A","B","C"))
 
 
 ##def foo(x) :
