@@ -7,13 +7,13 @@ def moveVia(f,v,t) :
     move(f,v)
     move(v,t)
 
- print(moveVia("A","B","C"))
+print(moveVia("A","B","C"))
 
 
 ##def foo(x) :
 ##    foo(x)
 
- print(foo('dfj'))
+print(foo('dfj'))
 
 
 def hanoi(n,f,h,t) :
@@ -26,5 +26,5 @@ def hanoi(n,f,h,t) :
 
 print(hanoi(4,"A","B","C"))
 
-
+print(hanoi(4,"D","E","F"))
 
