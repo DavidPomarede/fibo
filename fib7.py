@@ -26,5 +26,5 @@ def hanoi(n,f,h,t) :
 
 print(hanoi(4,"A","B","C"))
 
-print(hanoi(4,"D","E","F"))
+print(hanoi(5,"D","E","F"))
 
