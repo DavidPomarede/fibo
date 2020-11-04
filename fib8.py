@@ -49,7 +49,8 @@ def test(infilename):
 
     infile = open(infilename, 'r')
     for line in infile:
-        print 'Line:', line.rstrip()
+        print 'Line: ', line.rstrip()
     infile.close()
+
 test('tmp.txt')
 
